@@ -1,7 +1,7 @@
 # LeafSpotAttentionNetwork
 
 
-'train.m' is a network to train the network
+'train.m' is the source code for training the network.
 
 'evaluate.m' is the source code to test the network
 
