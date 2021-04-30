@@ -1,14 +1,17 @@
 # LeafSpotAttentionNetwork
 
-It was written in MATLAB.
+This code is an implementation of our paper "Leaf spot attention network for apple leaf disease identification" published in IEEE/CVF Conference on Computer Vision and Pattern Recognition (IEEE CVPR), Agriculture-Vision Workshop, 2020.
 
-'train.m' is the source code for training the network.
+The proposed model can be used not only for apple leaves, but also for classification of various leaf diseases.
 
-'evaluate.m' is the source code to test the network
+This source code was implemented in Matlab 2019a version and tested on Window 10.
 
-'result.pptx' is a ppt containing the result of the network that was added after adding data
+-     'train.m' is the source code to train the proposed leaf spot attention network.
+-     'evaluate.m' is the source code to test the pretrained network.
 
-The dataset and network are large and need to be downloaded.
+For reference, more training images are added to train our leaf spot attention network. Therefore, its classification results are slightly different from those in the paper.
+
+The dataset and our pretrained network can be downloaded.
 
 Dataset : https://drive.google.com/file/d/1zSRzOvAQydPufVLcCzYRWgunNVztBUxe/view?usp=sharing
 
