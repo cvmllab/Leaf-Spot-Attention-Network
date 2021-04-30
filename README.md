@@ -16,3 +16,5 @@ The dataset and our pretrained network can be downloaded.
 Dataset : https://drive.google.com/file/d/1zSRzOvAQydPufVLcCzYRWgunNVztBUxe/view?usp=sharing
 
 Network : https://drive.google.com/file/d/19rUDzQ_JN0IWUvvLvN6qtG2QRC7GZAM6/view?usp=sharing
+
+![캡처4](https://user-images.githubusercontent.com/73872706/116659405-82ee2600-a9cc-11eb-9023-03959934cbbc.PNG)
