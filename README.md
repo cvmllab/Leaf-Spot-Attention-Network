@@ -17,6 +17,11 @@ Dataset : https://drive.google.com/file/d/1zSRzOvAQydPufVLcCzYRWgunNVztBUxe/view
 
 Network : https://drive.google.com/file/d/19rUDzQ_JN0IWUvvLvN6qtG2QRC7GZAM6/view?usp=sharing
 
+# Dataset
+SoundLeaf : 558
+MarssoniaBlotch : 2281
+AlternariaLeafSpot : 896
+
 
 
 
