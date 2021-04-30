@@ -18,15 +18,16 @@ Dataset : https://drive.google.com/file/d/1zSRzOvAQydPufVLcCzYRWgunNVztBUxe/view
 Network : https://drive.google.com/file/d/19rUDzQ_JN0IWUvvLvN6qtG2QRC7GZAM6/view?usp=sharing
 
 # Dataset
-SoundLeaf : 558
 
-MarssoniaBlotch : 2281
+All apple leaf images used in this study were provided by the Apple Research Institute in our country. The apple leaf images were categorized into three groups, according to two types of leaf diseases and normal leaf.
 
-AlternariaLeafSpot : 896
+- The number of normal leaves is 558
+- The number of marssonia blotch leaves is 2281
+- The number of alternaria leaves is 896
 
 
 
 
-# Result
+# Experimental results
 
 ![캡처4](https://user-images.githubusercontent.com/73872706/116659405-82ee2600-a9cc-11eb-9023-03959934cbbc.PNG)
