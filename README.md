@@ -27,6 +27,7 @@ All apple leaf images used in this study were provided by the Apple Research Ins
 
 ![image](https://user-images.githubusercontent.com/73872706/116661105-e5e0bc80-a9ce-11eb-85d7-949bb04c32fa.png)
 
+Figure. Example of apple leaf images: normal leaf images (first row), diseased leaf images with marssonia blotch (second row), and diseased leaf images with alternaria leaf spot (third row).
 
 
 # Experimental results
