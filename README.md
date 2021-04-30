@@ -1,6 +1,6 @@
 # Leaf Spot Attention Network for Leaf Disease Identification
 
-This code is an implementation of our paper "Leaf spot attention network for apple leaf disease identification" published in IEEE/CVF Conference on Computer Vision and Pattern Recognition (IEEE CVPR), Agriculture-Vision Workshop, 2020.
+This code is an implementation of our paper "Leaf spot attention network for apple leaf disease identification" published in IEEE/CVF Conference on Computer Vision and Pattern Recognition (IEEE CVPR), Agriculture-Vision Workshop, 2020. Download the paper : https://openaccess.thecvf.com/content_CVPRW_2020/papers/w5/Yu_Leaf_Spot_Attention_Network_for_Apple_Leaf_Disease_Identification_CVPRW_2020_paper.pdf
 
 The proposed model can be used not only for apple leaves, but also for classification of various leaf diseases.
 
