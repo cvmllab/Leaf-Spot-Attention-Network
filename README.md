@@ -32,4 +32,4 @@ Figure. Example of apple leaf images: normal leaf images (first row), diseased l
 
 # Experimental results
 
-![캡처4](https://user-images.githubusercontent.com/73872706/116659405-82ee2600-a9cc-11eb-9023-03959934cbbc.PNG)
+![캡처7](https://user-images.githubusercontent.com/73872706/116661927-17a65300-a9d0-11eb-8443-321c70f387b4.PNG)
