@@ -1,4 +1,4 @@
-# LeafSpotAttentionNetwork
+# Leaf-Spot-Attention-Network
 
 This code is an implementation of our paper "Leaf spot attention network for apple leaf disease identification" published in IEEE/CVF Conference on Computer Vision and Pattern Recognition (IEEE CVPR), Agriculture-Vision Workshop, 2020.
 
