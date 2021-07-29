@@ -23,7 +23,7 @@ All apple leaf images used in this study were provided by the Apple Research Ins
 
 - The number of normal leaves is 558
 - The number of marssonia blotch leaves is 2281
-- The number of alternaria leaves is 896
+- The number of alternaria leaves is 898
 
 ![image](https://user-images.githubusercontent.com/73872706/116661105-e5e0bc80-a9ce-11eb-85d7-949bb04c32fa.png)
 
