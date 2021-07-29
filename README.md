@@ -13,9 +13,9 @@ For reference, more training images are added to train our leaf spot attention n
 
 The dataset and our pretrained network can be downloaded.
 
-Dataset : https://drive.google.com/file/d/1zSRzOvAQydPufVLcCzYRWgunNVztBUxe/view?usp=sharing
+Dataset : [Dataset](https://drive.google.com/file/d/1zSRzOvAQydPufVLcCzYRWgunNVztBUxe/view?usp=sharing)
 
-Network : https://drive.google.com/file/d/19rUDzQ_JN0IWUvvLvN6qtG2QRC7GZAM6/view?usp=sharing
+Network : [Network](https://drive.google.com/file/d/19rUDzQ_JN0IWUvvLvN6qtG2QRC7GZAM6/view?usp=sharing)
 
 # Dataset
 
