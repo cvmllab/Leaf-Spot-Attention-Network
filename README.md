@@ -32,7 +32,7 @@ Figure. Example of apple leaf images: normal leaf images (first row), diseased l
 
 # Experimental results
 
-![결과](https://user-images.githubusercontent.com/73872706/127420589-87841bf4-7416-4863-9ffe-6f9a8aaceb51.PNG)
+![캡처](https://user-images.githubusercontent.com/73872706/128283949-d397bd11-548d-4191-90c3-17814e571542.PNG)
 - Attention Gated Network : [paper](https://arxiv.org/pdf/1808.08114.pdf)
 - Pyramid Vision Transfomer : [paper](https://arxiv.org/pdf/2102.12122.pdf)
 
